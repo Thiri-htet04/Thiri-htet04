@@ -55,7 +55,7 @@ I'm a Computer Science student at Assumption University in Bangkok, interested i
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Thiri-htet04&hide_border=true&background=0D1117&ring=8B9DFF&fire=62D6E8&currStreakLabel=8B9DFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+<img src="https://streak-stats.demolab.com?user=Thiri-htet04&hide_border=true&background=0D1117&ring=8B9DFF&fire=62D6E8&currStreakLabel=8B9DFF&currStreakNum=C9D1D9&sideLabels=C9D1D9&sideNums=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
 
