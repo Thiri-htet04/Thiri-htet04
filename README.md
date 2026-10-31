@@ -59,7 +59,7 @@ I'm a Computer Science student at Assumption University in Bangkok, interested i
 
 </div>
 
-*Cards are provided by third-party services and may occasionally be unavailable. They summarize GitHub activity and are not a measure of proficiency.*
+
 
 ## Connect
 
