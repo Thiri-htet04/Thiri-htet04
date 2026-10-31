@@ -55,9 +55,6 @@ I'm a Computer Science student at Assumption University in Bangkok, interested i
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Thiri-htet04&show_icons=true&hide_border=true&bg_color=0D1117&title_color=8B9DFF&icon_color=62D6E8&text_color=C9D1D9" alt="GitHub profile statistics for Thiri Htet" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiri-htet04&layout=compact&hide_border=true&bg_color=0D1117&title_color=8B9DFF&text_color=C9D1D9" alt="Most-used languages on public GitHub repositories" />
-
 <img src="https://streak-stats.demolab.com?user=Thiri-htet04&hide_border=true&background=0D1117&ring=8B9DFF&fire=62D6E8&currStreakLabel=8B9DFF&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
 
 </div>
