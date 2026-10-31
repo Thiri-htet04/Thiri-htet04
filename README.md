@@ -67,8 +67,8 @@ I'm a Computer Science student at Assumption University in Bangkok, interested i
 ## Connect
 
 - **GitHub:** [@Thiri-htet04](https://github.com/Thiri-htet04)
-- **LinkedIn:** Add your LinkedIn profile URL
-- **Email:** Add your professional email address
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/thiri-htet-79a72831a)
+- **Email:** [thirihtet7864@gmail.com](mailto:thirihtet7864@gmail.com)
 
 ---
 
