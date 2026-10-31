@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=7C9DFF&center=true&vCenter=true&width=620&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Frontend+Development+Enthusiast;Learning%2C+Building+%26+Improving" alt="Aspiring full-stack developer; computer science student; frontend development enthusiast; learning, building and improving" />
 </a>
 
-📍 Bangkok, Thailand &nbsp;·&nbsp; 🎓 B.S. Computer Science, Assumption University — graduating January 2027
+📍 Bangkok, Thailand &nbsp;·&nbsp; 🎓 B.S. Computer Science, Assumption University
 
 [![GitHub](https://img.shields.io/badge/GitHub-181A2A?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Thiri-htet04)
 
