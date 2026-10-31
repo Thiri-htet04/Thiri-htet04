@@ -2,8 +2,8 @@
 
 # Hi there, I'm Thiri Htet 👋
 
-<a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=7C9DFF&center=true&vCenter=true&width=620&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Frontend+Development+Enthusiast;Building+Real-World+Web+Applications;Learning%2C+Building+%26+Improving">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=7C9DFF&center=true&vCenter=true&width=620&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Frontend+Development+Enthusiast;Building+Real-World+Web+Applications;Learning%2C+Building+%26+Improving" alt="Aspiring full-stack developer; computer science student; frontend development enthusiast; building real-world web applications; learning, building and improving" />
+<a href="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=7C9DFF&center=true&vCenter=true&width=620&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Frontend+Development+Enthusiast;Learning%2C+Building+%26+Improving">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=19&pause=1600&color=7C9DFF&center=true&vCenter=true&width=620&lines=Aspiring+Full-Stack+Developer;Computer+Science+Student;Frontend+Development+Enthusiast;Learning%2C+Building+%26+Improving" alt="Aspiring full-stack developer; computer science student; frontend development enthusiast; learning, building and improving" />
 </a>
 
 📍 Bangkok, Thailand &nbsp;·&nbsp; 🎓 B.Sc. Computer Science, Assumption University — graduating January 2027
