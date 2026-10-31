@@ -51,21 +51,6 @@ I'm a Computer Science student at Assumption University in Bangkok, interested i
 ![Claude](https://img.shields.io/badge/Claude-755239?style=flat-square)
 ![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat-square&logo=openai&logoColor=white)
 
-## Selected projects
-
-### UVGuard · iOS and watchOS UV safety app
-
-Course team project built to help people monitor UV exposure. The app includes current UV readings, hourly and daily forecasts, multiple cities, configurable briefing notifications, sun-safety articles, dark mode, and Apple Watch support. The repository credits Thiri Htet and Swan Htet Aung as team members.
-
-**Stack:** Swift 5.9 · SwiftUI · CoreLocation · Open-Meteo UV Index API · MVVM  
-[View repository →](https://github.com/haoz20/ios-term-project-uvguard)
-
-### Motopedia · motorcycle knowledge platform
-
-Android course project for exploring motorcycle information. Features documented in the repository include searching by brand and model, exploring brands and store locations, contributing articles, and an admin review flow for submissions.
-
-[View repository →](https://github.com/Kusk24/Android-Term-Project)
-
 ## GitHub activity
 
 <div align="center">
